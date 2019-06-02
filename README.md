@@ -10,7 +10,7 @@ Testing with Concept Activation Vectors (TCAV) is a new interpretability method 
 
 #### Read my Full Blog Post [here](https://soumyadip1995.blogspot.com/2019/06/tcavs-testing-with-concept-activation.html).
 
-#### Credit goes to this academic Team [here](https://github.com/wso2news/tcav) and [here](https://github.com/fursovia/tcav_nlp)
+##### Credit goes to this academic Team [here](https://github.com/wso2news/tcav) and If you wish to run this, clone this repo  [here](https://github.com/fursovia/tcav_nlp)
 
 ### What's special about TCAV compared to other methods?
 
